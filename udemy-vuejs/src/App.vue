@@ -1,6 +1,6 @@
 <template>
     <div style="width: 700px; margin: auto; padding-top: 50px;">        
-        <h2>福井への貢献</h2>
+        <h2>福井へ貢献</h2>
         <hr>
         <router-view name="header"></router-view>
         <hr>
